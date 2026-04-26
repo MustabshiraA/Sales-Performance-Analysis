@@ -84,8 +84,9 @@ The Power BI dashboard includes:
 
 ## 📸 Dashboard Preview
 
-![Dashboard 1 Screenshot](images/dashboard_sc.png)
-![Dashboard 2 Screenshot](images/dashboard_screenshot.png)
+![Dashboard 1 Screenshot](Sales.performance.png)
+
+![Dashboard 2 Screenshot](Customer.Analysis.png)
 
 
 ---
