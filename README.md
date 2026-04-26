@@ -129,7 +129,7 @@ The Power BI dashboard includes:
 
 ## 📬 Contact
 
-* LinkedIn: [Insert link]
+* LinkedIn: [https://www.linkedin.com/in/mustabshira-awal1]
 * Email: [mustabshiraawal96@gmail.com]
 
 ---
