@@ -93,10 +93,14 @@ The Power BI dashboard includes:
 
 ## 🔍 Key Insights
 
-* Revenue shows consistent growth with noticeable peaks during specific seasonal periods
-* A small number of product categories contribute disproportionately to overall profit
-* Certain regions outperform others, indicating potential for targeted expansion
-* Customer purchasing patterns vary significantly by segment, suggesting opportunities for personalised strategies
+* The company generated total revenue of approximately $61.68 million and a profit of about $50.52 million. This resulted in a high profit margin of approximately 82%, 
+indicating strong cost efficiency and an effective pricing strategy.
+
+* The business is geographically concentrated, relying heavily on top performing countries (Canada and Australia). There is a large gap between the top and bottom countries, indicating uneven market penetration.
+  
+* The least demography of buyer type (Seller) contributes the highest revenue. This indicates that loosing a few customers in the seller segment will result in a major revenue drop.
+
+* The top 5 drugs contribute a significant portion of total revenue, showing that the business relies heavily on a few key products. The top 5 drugs contributed approximately $17 million (27%) of Total revenue,  while the Bottom 5 drugs contributed about $2 million ( 3% )of Total revenue
 
 ---
 
