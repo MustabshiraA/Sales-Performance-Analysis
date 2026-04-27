@@ -5,12 +5,12 @@
 
 ## 📌 Project Overview
 
-NovaMed is a leading pharmaceutical distributor thatvserves a diverse healthcare sector, ensuring the availabilty of essencial medication across various countries. the company is facing challenges in optimizing sales performance, customer engagement, managing inventory effuciently, and identifying key market opportunity which has impacted operational effectiveness.
+NovaMed is a leading pharmaceutical distributor that serves a diverse healthcare sector, ensuring the availability of essential medications across various countries. The company is facing challenges in optimizing sales performance, customer engagement, managing inventory efficiently, and identifying key market opportunities, which has impacted operational effectiveness.
 The project simulates a real-world business scenario where stakeholders require clear visibility into key performance metrics and growth opportunities
 
 ## 📌 Project Goal
 
-This project delivers data driven insights for NovaMed Solutions by analysing operational and customer data to identify ineffectiveness, optimize performance and improve customer engagement.
+This project delivers data-driven insights for NovaMed Solutions by analysing operational and customer data to identify inefficiencies, optimize performance, and improve customer engagement.
 
 ---
 
@@ -35,8 +35,8 @@ This project delivers data driven insights for NovaMed Solutions by analysing op
 * Source: [Provided by training institution for capstone project]
 * Data Tables:
 
-  * FactTables: Contains 
-  * DrugLookup: Contains all drugs related information (DrugID, DrugName, treats)
+  * FactTables: Contains transactional information (
+  * DrugLookup: Contains all drug-related information (DrugID, DrugName, treats)
   * CustomerTables: Contains information about customers ( age, gender, customerID, Country)
  
 
@@ -84,9 +84,9 @@ The Power BI dashboard includes:
 
 ## 📸 Dashboard Preview
 
-![Dashboard 1 Screenshot](Sales.performance.png)
+![Dashboard 1 Screenshot](SalesPerformance.png)
 
-![Dashboard 2 Screenshot](Customer.Analysis.png)
+![Dashboard 2 Screenshot](CustomersAnalysis.png)
 
 
 ---
