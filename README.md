@@ -1,12 +1,12 @@
 
-# 📊 Power BI Capstone Project: Business Performance Analysis
+# 📊  Business Performance Analysis
 
 ---
 
 ## 📌 Project Overview
 
-NovaMed is a leading pharmaceutical distributor that serves a diverse healthcare sector, ensuring the availability of essential medications across various countries. The company is facing challenges in optimizing sales performance, customer engagement, managing inventory efficiently, and identifying key market opportunities, which has impacted operational effectiveness.
-The project simulates a real-world business scenario where stakeholders require clear visibility into key performance metrics and growth opportunities
+NovaMed is a leading pharmaceutical distributor that serves a diverse healthcare sector, making essential medications available across various countries. The company is facing challenges in optimizing sales performance and customer engagement, managing inventory efficiently, and identifying key market opportunities, which have affected operational effectiveness.
+Over the past year, the Company has collected comprehensive sales data, including revenue, profit margins, drug performance, and customer demographics. This dataset provides a valuable opportunity for in-depth analysis, trend identification, and data-driven decision-making to enhance business strategies and streamline operations.
 
 ## 📌 Project Goal
 
@@ -52,33 +52,15 @@ This project delivers data-driven insights for NovaMed Solutions by analysing op
 
 ## 📊 Dashboard Features
 
-The Power BI dashboard includes:
+The  interactive Power BI dashboard focuses on two key areas:
 
-* **KPI Overview**
+* **Top/Bottom Analysis**
 
-  * Total Revenue
-  * Total Profit
-  * Profit Margin
+  * This dashboard tracks overall sales metrics, including revenue, profit margins, and cost of goods sold (COGS), with month-over-month comparisons. It also highlights the top-performing and underperforming drugs and customers based on dynamic measures.
 
-* **Sales Trends**
+* **Customer Analysis**
 
-  * Monthly and yearly performance
-  * Seasonal patterns
-
-* **Regional Analysis**
-
-  * Revenue distribution by location
-  * Top-performing regions
-
-* **Product Performance**
-
-  * Best-selling categories
-  * Low-performing products
-
-* **Customer Insights**
-
-  * Segment analysis
-  * Purchasing behaviour
+  * This dashboard provides insight into customer demography, revenue distribution by buyer type, and purchasing behaviour. Additionally, it includes geographical sales insights and highlights key revenue sources.
 
 ---
 
@@ -96,9 +78,9 @@ The Power BI dashboard includes:
 * The company generated total revenue of approximately $61.68 million and a profit of about $50.52 million. This resulted in a high profit margin of approximately 82%, 
 indicating strong cost efficiency and an effective pricing strategy.
 
-* The business is geographically concentrated, relying heavily on top performing countries (Canada and Australia). There is a large gap between the top and bottom countries, indicating uneven market penetration.
+* The business is geographically concentrated, relying heavily on top-performing countries (Canada and Australia). There is a large gap between the top and bottom countries, indicating uneven market penetration.
   
-* The least demography of buyer type (Seller) contributes the highest revenue. This indicates that loosing a few customers in the seller segment will result in a major revenue drop.
+* The least demographic of buyer type (Seller) contributes the highest revenue. This indicates that losing a few customers in the seller segment will result in a major revenue drop.
 
 * The top 5 drugs contribute a significant portion of total revenue, showing that the business relies heavily on a few key products. The top 5 drugs contributed approximately $17 million (27%) of Total revenue,  while the Bottom 5 drugs contributed about $2 million ( 3% )of Total revenue
 
@@ -106,10 +88,13 @@ indicating strong cost efficiency and an effective pricing strategy.
 
 ## 💡 Recommendations
 
-* Focus on high-performing product categories to maximise profitability
-* Investigate underperforming regions and optimise marketing strategies
-* Leverage seasonal trends for inventory and campaign planning
-* Develop targeted offers for different customer segments
+* Strengthening relationship with top customers by developing loyalty programs, personalised offers, and dedicated high support to improve retention.
+  
+* Strengthen Partnership and maintain strong relationships with sellers, offer incentives and bulk discounts to encourage retention and sustained revenue. While increasing direct engagement with Users to diversify revenue channels.
+  
+* Review underperforming drugs and decide whether to improve their positioning, promote them, or discontinue them to reduce inefficiencies.
+  
+* Implement better demand forecasting and continuous marketing strategies to reduce fluctuations in monthly performance and improve monthly sales consistency.
 
 ---
 
@@ -123,14 +108,7 @@ indicating strong cost efficiency and an effective pricing strategy.
 
 ---
 
-## 🚀 Future Improvements
 
-* Integrate real-time data sources
-* Incorporate predictive analytics (forecasting sales trends)
-* Enhance dashboard interactivity with advanced filters
-* Expand analysis with additional datasets
-
----
 
 ## 📬 Contact
 
