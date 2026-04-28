@@ -35,7 +35,7 @@ This project delivers data-driven insights for NovaMed Solutions by analysing op
 * Source: [Provided by training institution for capstone project]
 * Data Tables:
 
-  * FactTables: Contains transactional information (
+  * FactTables: Contains transactional information (SalesID, DrugID, CustomerID, UnitsSold, SaleDate, BuyerType, UnitSalePrice, and Cost of Production)
   * DrugLookup: Contains all drug-related information (DrugID, DrugName, treats)
   * CustomerTables: Contains information about customers ( age, gender, customerID, Country)
  
@@ -46,7 +46,7 @@ This project delivers data-driven insights for NovaMed Solutions by analysing op
 
 * Removed duplicates and handled missing values
 * Standardised date formats and categorical variables
-* Created calculated columns and measures in Power BI (e.g. Total Sales, Profit Margin, YoY Growth)
+* Created calculated columns and measures in Power BI ( Total Sales, Profit Margin, MoM Growth, Total revenue, Calendar Dimension, among others)
 
 ---
 
